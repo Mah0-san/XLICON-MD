@@ -1,4 +1,4 @@
-#### XLICON-MD
+## `XLICON-MD`
 <div align="left">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its XLICON-MD;Multi+Device+Whatsapp+Bot;Developed+By+SALMAN AHMAD" alt="Typing SVG" /></a>
   
@@ -203,7 +203,7 @@ Choose your repo
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Xheikhsalman4444/XLICON-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/salmanytofficial/XLICON-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="170px" alt="Deploy on Heroku" >
     </a>
 
