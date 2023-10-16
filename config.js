@@ -7,7 +7,7 @@ global.owner = process.env.OWNER_NUMBER || "2347045493336"  // Make SURE its Not
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Mah0_san:Strawcake12@cluster0.c1uuysc.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'mrvlsprk123@gmail.com'
-global.github = 'https://github.com/salmanytofficial/XLICON-MD'
+global.github = 'https://github.com/Mah0-san/XLICON-MD'
 global.location = 'Nigeria'
 global.gurl = 'https://instagram.com/mah0_san/' // add your username
 global.sudo = process.env.SUDO || '923184070915' 
