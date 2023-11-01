@@ -66,7 +66,7 @@
     },
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
-      "value": "-"
+      "value": "_"
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
@@ -82,7 +82,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": ""
+    "value": "mongodb+srv://mongo:Strawcake12@cluster0.o4vaeps.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are GOJO,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
